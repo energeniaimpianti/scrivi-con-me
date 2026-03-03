@@ -1,0 +1,11 @@
+{
+  "appId": "net.energenia.scriviconme",
+  "appName": "Scrivi con Me!",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#FFF8E7"
+  }
+}
